@@ -7,6 +7,6 @@ num_subtract = num1 - num2
 num_multiply = num1 * num2
 num_divide = num1 / num2
 print(f"Addition: {num_addition}")
-print(f"Addition: {num_subtract}")
-print(f"Addition: {num_multiply}")
-print(f"Addition: {num_divide}")
+print(f"Subtraction: {num_subtract}")
+print(f"Multiplication: {num_multiply}")
+print(f"Division: {num_divide}")
